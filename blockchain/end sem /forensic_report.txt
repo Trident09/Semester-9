@@ -1,0 +1,1 @@
+Prepare a small forensic report for 12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw above address including: Adress type, Transaction behaviour, Risk Category (Low / Medium / High), Possible real-world attribution.
